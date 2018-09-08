@@ -7,4 +7,4 @@ git 操作流程
   
 3. 提交文件到版本库 repository 
   git commit -m 'add file'
-
+我什么也不知道什么可以放弃
