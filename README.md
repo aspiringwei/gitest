@@ -8,3 +8,4 @@ git 操作流程
 3. 提交
   git commit -m 'add file'
 
+4. push
